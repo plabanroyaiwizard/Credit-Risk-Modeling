@@ -1,0 +1,2 @@
+# Credit-Risk-Modeling
+Maximizing profit is good but minimizing risk is more important. Good credit risk modeling can save the banks and other financial organizations millions and billions of dollars. What I have covered here: -> Prepare credit data for machine learning models -> Develop and score ML models with logistic regressions and gradient boosted trees ->Analyze the performance of models -> Understand the financial impact of results -> Implement the model with an understanding of strategy
